@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+#banner {
+	height: 100px;
+}
+
+#logo {
+	margin: 0px 80px;
+	width:150px;
+	height:100px;
+}
+
+form {
+	margin: 0px 40px;
+}
+
+#search_input {
+	width: 700px;
+}
+
+.shoesmain {
+	width: 1400px;
+}
+
+#navbar {
+	height: 50px;
+}
